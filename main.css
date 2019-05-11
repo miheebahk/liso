@@ -46,3 +46,17 @@ nav li a {
   color: #00838A;
   font-size: 16px;
 }
+
+
+@media screen and (max-width: 768px) { 
+  .title { 
+    margin-top: 70px;
+    margin-bottom: 70px;
+  } 
+  .name {
+    margin-left: 1rem;
+  }
+  nav {
+    margin-left: 1rem;
+  }
+}
