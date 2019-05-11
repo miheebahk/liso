@@ -18,6 +18,18 @@ body {
   margin-bottom: 15px;
 }
 
+.name ul {
+  list-style: none;
+  margin: 0px;
+  padding: 0px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.name li {
+  margin-right: 7px;
+}
+
 
 p {
   text-align: center;  
