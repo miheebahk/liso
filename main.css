@@ -7,14 +7,14 @@ body {
   margin-top: 140px;
   margin-bottom: 140px;
   color: #00838A;
-  font-family: serif, 'song ti';
+  font-family: serif, 'SimSun', 'STHeiti';
   font-size: 3rem;
 }
 
 
 .name {
   margin-top: 200px;  
-  margin-left: 2rem;
+  margin-left: 3rem;
   margin-bottom: 15px;
 }
 
@@ -38,7 +38,7 @@ p {
 
 nav {
   margin-bottom: 60px;
-  margin-left: 2rem;
+  margin-left: 3rem;
 
 }
 
