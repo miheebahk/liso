@@ -1,0 +1,47 @@
+body {
+  font-family: sans-serif;
+}
+
+.title {
+  text-align: center;  
+  margin: 140px;
+  color: #00838A;
+  font-family: serif;
+  font-size: 3rem;
+}
+
+
+.name {
+  margin-top: 200px;  
+  margin-left: 3rem;
+  margin-bottom: 15px;
+}
+
+
+p {
+  text-align: center;  
+
+}
+
+nav {
+  margin-bottom: 60px;
+  margin-left: 3rem;
+  font-size: 0.9rem;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0px;
+  padding: 0px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+nav li {
+  margin-right: 10px;
+}
+
+nav li a {
+  color: #00838A;
+  font-size: 1rem;
+}
