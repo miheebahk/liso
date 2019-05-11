@@ -7,13 +7,13 @@ body {
   margin: 140px;
   color: #00838A;
   font-family: serif, 'song ti';
-  font-size: 48px;
+  font-size: 3rem;
 }
 
 
 .name {
   margin-top: 200px;  
-  margin-left: 48px;
+  margin-left: 3rem;
   margin-bottom: 15px;
 }
 
