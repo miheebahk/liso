@@ -4,16 +4,17 @@ body {
 
 .title {
   text-align: center;  
-  margin: 140px;
+  margin-top: 140px;
+  margin-bottom: 140px;
   color: #00838A;
-  font-family: serif;
+  font-family: serif, 'song ti';
   font-size: 3rem;
 }
 
 
 .name {
   margin-top: 200px;  
-  margin-left: 3rem;
+  margin-left: 2rem;
   margin-bottom: 15px;
 }
 
@@ -25,8 +26,8 @@ p {
 
 nav {
   margin-bottom: 60px;
-  margin-left: 3rem;
-  font-size: 0.9rem;
+  margin-left: 2rem;
+
 }
 
 nav ul {
@@ -43,5 +44,5 @@ nav li {
 
 nav li a {
   color: #00838A;
-  font-size: 1rem;
+  font-size: 16px;
 }
