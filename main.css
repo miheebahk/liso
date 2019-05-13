@@ -12,7 +12,7 @@
 .name {
   margin-top: 200px;  
   margin-left: 3rem;
-  margin-bottom: 15px;
+  margin-bottom: 0px;
 }
 
 .name ul {
@@ -43,8 +43,6 @@ nav ul {
   list-style: none;
   margin: 0px;
   padding: 0px;
-  display: flex;
-  flex-wrap: wrap;
 }
 
 nav li {
